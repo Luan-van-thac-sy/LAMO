@@ -12,3 +12,5 @@ data/data_process/input/mimic-iii/PROCEDURES_ICD.csv
 data/data_process/input/mimic-iii/PATIENTS.csv
 data/data_process/input/mimic-iii/PRESCRIPTIONS.csv
 data/data_process/input/mimic-iii/NOTEEVENTS.csv
+
+.venv/
